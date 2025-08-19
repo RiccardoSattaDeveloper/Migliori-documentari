@@ -2,8 +2,6 @@
 
 • Librerie standard: pandas, numpy.
 
-• Librerie esterne: Nessuna
-
 ---
 
 Dopo aver clonato la repository, crea un ambiente virtuale:
