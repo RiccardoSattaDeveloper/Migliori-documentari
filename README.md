@@ -17,3 +17,7 @@ venv310\Scripts\activate  # Windows
 Poi, installa le dipendenze:
 
 pip install -r requirements.txt
+
+---
+
+Lo script richiede il download del file **'title.basics.tsv.gz'** dal sito [https://datasets.imdbws.com/](https://datasets.imdbws.com/). Non è stato caricato su GitHub a causa delle dimensioni.
